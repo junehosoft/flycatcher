@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flycatcher/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/flycatcher/static/js/main.103ae011.chunk.js",
+    "main.js.map": "/flycatcher/static/js/main.103ae011.chunk.js.map",
+    "runtime-main.js": "/flycatcher/static/js/runtime-main.e8ab8d3d.js",
+    "runtime-main.js.map": "/flycatcher/static/js/runtime-main.e8ab8d3d.js.map",
+    "static/js/2.c3ffc35b.chunk.js": "/flycatcher/static/js/2.c3ffc35b.chunk.js",
+    "static/js/2.c3ffc35b.chunk.js.map": "/flycatcher/static/js/2.c3ffc35b.chunk.js.map",
+    "static/js/3.b776073c.chunk.js": "/flycatcher/static/js/3.b776073c.chunk.js",
+    "static/js/3.b776073c.chunk.js.map": "/flycatcher/static/js/3.b776073c.chunk.js.map",
+    "index.html": "/flycatcher/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/flycatcher/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c3ffc35b.chunk.js.LICENSE.txt": "/flycatcher/static/js/2.c3ffc35b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/flycatcher/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8ab8d3d.js",
+    "static/js/2.c3ffc35b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.103ae011.chunk.js"
+  ]
+}
